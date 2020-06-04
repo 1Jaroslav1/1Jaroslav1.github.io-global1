@@ -1,0 +1,41 @@
+.footer {
+  padding: 24px 0 36px 0;
+  background-color: #25333c; }
+  .footer__first_block {
+    margin-bottom: 26px; }
+  .footer__wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between; }
+  .footer__logo img {
+    width: 67px;
+    height: 71px; }
+  .footer__descr {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.25;
+    text-align: left;
+    color: #ffffff; }
+  .footer__question {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.71;
+    text-align: right;
+    color: #ffffff; }
+  .footer__phone {
+    font-size: 19px;
+    font-weight: bold;
+    line-height: 1.26;
+    text-align: right;
+    color: #ffffff; }
+  .footer__line {
+    width: 100%;
+    height: 1px;
+    color: #ffffff;
+    opacity: 0.3; }

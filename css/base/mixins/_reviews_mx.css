@@ -1,0 +1,13 @@
+@media (min-width: 991px) {
+  .reviews__item img {
+    width: 90px;
+    height: 90px; }
+  .reviews__name {
+    font-size: 15px; }
+  .reviews__descr {
+    font-style: 12px; }
+  .slick-prev, .slick-next {
+    left: -40px; }
+  .slick-next {
+    right: -40px;
+    left: auto; } }

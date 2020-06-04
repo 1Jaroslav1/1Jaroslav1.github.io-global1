@@ -1,0 +1,11 @@
+@media (min-width: 575px) {
+  .agent__title {
+    font-size: 23px; }
+  .agent__descr {
+    font-size: 15px; } }
+
+@media (min-width: 767px) {
+  .agent__title {
+    font-size: 26px; }
+  .agent__descr {
+    font-size: 19px; } }
